@@ -93,10 +93,18 @@ body{
 }
 .rodape{
     color: var(--cor-primaria);
-    background-color: var(--cor-terciaria);
-    padding: 24px;
+   background-color: rgb(74, 104, 104);
+    padding: 1px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 15px;
     font-weight: 400;
+}
+.contact{
+    background-color: rgb(72, 163, 167);
+    color:#161816;
+    text-align: center;
+    margin: bottom 5px;;
+    font-size:20px;
+    height: 10%
 }
